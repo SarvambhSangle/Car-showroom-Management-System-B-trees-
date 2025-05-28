@@ -1,0 +1,2 @@
+Amit Kumar,9876543210,123 MG Road Bangalore,VIN006,KA01AB1234
+Neha Verma,8765432109,456 Brigade Road Bangalore,VIN007,KA02CD5678

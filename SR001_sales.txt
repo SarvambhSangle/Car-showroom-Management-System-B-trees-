@@ -1,0 +1,2 @@
+VIN006,Honda City,Silver,1300000,Petrol,Sedan
+VIN007,Kia Seltos,Red,1500000,Petrol,SUV

@@ -1,0 +1,2 @@
+1001,suzuki,black,6789300.00,petrol,sedan
+1002,mercede,white,57684928.00,electriv,muv

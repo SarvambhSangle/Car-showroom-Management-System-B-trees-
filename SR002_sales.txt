@@ -1,0 +1,1 @@
+1000,bmw,red,56000000.00,deisel,suv
